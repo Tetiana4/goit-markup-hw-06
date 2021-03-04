@@ -988,17 +988,17 @@ footer {
   border-color: var(--blue);
 }
 
-.check-input {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  position: absolute;
-}
-
 .icon-check {
   display: inline-block;
   margin-right: 9px;
   border-radius: 4px;
 
   border: 2px solid #2a2a2a;
+}
+
+.check-input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  position: absolute;
 }
